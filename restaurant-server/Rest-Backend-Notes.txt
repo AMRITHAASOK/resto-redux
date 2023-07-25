@@ -1,0 +1,11 @@
+
+
+                    Restaurant Listing Backend
+                -----------------------------------
+
+    1. Create package.json file - npm init -y
+    2. npm i json-server
+    3. npm i cors
+    4. create a db.json file and paste the Restaurant data
+    5. create .gitignore file and add node modules name
+    6. Create a index.js file
